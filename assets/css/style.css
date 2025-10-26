@@ -1,0 +1,68 @@
+/* Mythic tome styling */
+body {
+    background: #f4e8d0;
+    background-image: 
+        repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(139,69,19,.03) 10px, rgba(139,69,19,.03) 20px);
+    margin: 0;
+    padding: 20px;
+    font-family: Georgia, serif;
+}
+
+.container-lg {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #faf6eb;
+    padding: 60px 80px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+    border: 1px solid #d4c4a0;
+}
+
+/* Glowing divine headings */
+h1 {
+    font-family: Georgia, serif;
+    font-size: 3em;
+    text-align: center;
+    color: #8B4513;
+    text-shadow: 
+        0 0 20px rgba(255,215,0,0.5),
+        0 0 40px rgba(255,215,0,0.3);
+    margin: 40px 0;
+}
+
+/* Drop cap after headings */
+h1 + p:first-letter,
+h2 + p:first-letter {
+    float: left;
+    font-size: 4em;
+    line-height: 0.8;
+    margin: 0.1em 0.1em 0 0;
+    color: #8B4513;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+    font-weight: bold;
+}
+
+/* Body text */
+p {
+    font-size: 1.1em;
+    line-height: 1.8;
+    color: #3a2317;
+    text-align: justify;
+    margin-bottom: 1.2em;
+}
+
+/* Stage directions in italics */
+em {
+    color: #6b4423;
+}
+
+/* Character names */
+strong {
+    color: #8B4513;
+    font-size: 1.1em;
+}
+
+/* Special styling for ALL: responses */
+p:has(strong:first-child) {
+    margin-left: 2em;
+    margin-top: 0.5em;
+}
