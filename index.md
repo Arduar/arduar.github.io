@@ -1,3 +1,7 @@
+---
+---
+
+
 Cover Title format, centered : "The Age of Sorrow"
 
 page-wide image looks like a leather tome cover
