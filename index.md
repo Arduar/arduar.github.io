@@ -1,5 +1,7 @@
 ---
 ---
+<link rel="stylesheet" href="assets/css/style.css">
+
 
 
 Cover Title format, centered : "The Age of Sorrow"
