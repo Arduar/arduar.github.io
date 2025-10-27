@@ -38,7 +38,7 @@ What hour is it?
 ##### DEACON
 It is eight hours past noon.
 
-#### PRIEST
+##### PRIEST
 Then let us begin!
 
 Blessed are the halls of the One-Above-All, blessed is the divine lady, Jabrah, who delivered the world from darkness! Blessed those whose heart remains loyal to the One-Above-All, now and forever, and to the ages of ages!
@@ -101,13 +101,13 @@ Lord of Life!
 ##### PRIEST
 First among the Jinn was Konstanyan. His glory was great, and his voice so beautiful, it drew tears from stone. The One-Above-All weaved him of gold and violet; his face was noble, hair polished brass, and wings of violet and indigo. Of all the Jinn, Konstanyan's portion of power was the greatest, and he was the most fair. When he first saw his creator, Konstanyan fell to his knees in songs of praise, and thus, Konstanyan's province was song.
 
-##### All
+##### ALL
 Mightiest and First!
 
 ##### PRIEST
 The Numbers of the Jinn are without count; the first children of the One-Above-All were diverse in many ways - to the eye and ear. Michah, who was quick to smile at all times, had skin the color of cypress bark, with hair of coal, eyes of gold, and wings more blue than a summer sky. Michah was an inquisitive creature, and so his province became sorcery and the management of the weavings of the One-Above-All. Lammashil was imposing. Her skin was ivory, like a porcelain doll. Her eyes and hair were dark black, and her wings were a shadowed silver. Her keen focus and vigilance made loyalty her province. The meekest among them, for whom tears and mercy became province, was Jabrah.
 
-##### All
+##### ALL
 Jabrah! The most blessed! Our lady clothed in brown!
 
 ##### CHORUS 
@@ -118,7 +118,7 @@ Each tear you shed is our salvation; you shall find your courage in your compass
 ##### PRIEST
 Jabrah was smaller than most Jinn. Her wings resembled those of a brown hawk, her hair was the color of wheat, and her large, meek eyes were roasted chestnuts. Jinn, beings of free will, like us, know failings of pride. Jabrah knew not pride. 
 
-##### All 
+##### ALL 
 From the meekest, shall be crowned Queen of Kings!
 
 *During the recitation of the congregation, the Priest begins to draw a single strand of gold across the black cloth*
@@ -126,7 +126,7 @@ From the meekest, shall be crowned Queen of Kings!
 ##### PRIEST
 And so it came to be, that the One-Above-All asked the Jinn to weave the void with them, that all could share in the creation of something beautiful. It was not known to the Jinn at that time, that the water of life was passed through them, and their weavings would become divine!
 
-##### All 
+##### ALL 
 Praise be to the One-Above-All, glorious, but wise - that their children weave with them!
 
 ##### PRIEST
@@ -144,7 +144,7 @@ But instead, he was chastised;
 
 "My son, know not that you are my creation? That all glory you direct to yourself serves in my own? Know not that these are not also my children, and you serve nothing when interrupting their glory, but to cause harm to their hearts?"
 
-##### All
+##### ALL
 Lord have mercy!
 
 ##### DEACON
@@ -166,7 +166,7 @@ No!
 
 Such is the nature of sin; it craves more and can never be fed. It is a poison, not merely darkness.
 
-##### All
+##### ALL
 Lord have mercy upon the first, even now, may he know he is loved!
 
 ##### PRIEST
