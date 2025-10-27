@@ -205,7 +205,7 @@ Master, Did Konstanyan repent?
 
 ##### PRIEST
 *speaking softly, in mourning* 
-No. The sin in his heart, and the growing sin of Lammashil's heart conspired to twist the wisdom of their Father as mockery. 
+No. The sin in his heart, and the growing sin of Lammashil's heart conspired to twist the wisdom of their Creator as mockery. 
 
 ##### ALL
 Oh, lost thread, a place for you remains in the tapestry! Return! The great weaver weeps for you!
@@ -215,14 +215,14 @@ The One-Above-All gathered all of the first children and again spoke to them, of
 
 "Know that I have used the water of life to trace your work, and that it is alive."
 
-He revealed to them the cosmos from the golden halls, and many fell to their knees in wonder. Each thread they had drawn - a star - a world of storms - a cloud of dust reflecting a chapel of thousands of colors of lights! The discord of Konstanyan was truly remarkable, a dominating wall of clusters of billions of stars, blinding in their combined glory!
+The One-Above-All revealed to them the cosmos from the golden halls, and many fell to their knees in wonder. Each thread they had drawn - a star - a world of storms - a cloud of dust reflecting a chapel of thousands of colors of lights! The discord of Konstanyan was truly remarkable, a dominating wall of clusters of billions of stars, blinding in their combined glory!
 
 "My Children, now I reveal to you the purpose of our work. 
 Only the creators experience this place; it Is my design that it be experienced from within. 
 
-I offer to each of you the opportunity to descend to world Arduar, one of beauty within the Wall of stars; to be born as beings of flesh. Know that this will make you forget these halls for a time; and there is the danger that the hardships of life will drive you away from me if you allow sin to fester within you.
+I offer to each of you the opportunity to descend to the world Arduar, one of beauty within the Wall of stars; to be born as beings of flesh. Know that this will make you forget these halls for a time; and there is the danger that the hardships of life will drive you away from me if you allow sin to fester within you.
 
-To those who take not this opportunity, I offer the option to dwell in the world unseen to creatures of flesh, there to manage the world through the threads unseen, upon the back of our tapestry. 
+To those who take not this opportunity, I offer the option to dwell in the world unseen to the creatures of flesh, there to manage the world through the threads unseen, upon the back of our tapestry. 
 
 To the remaining, I offer that you stay with me in the Golden Halls, and observe as our creation comes to know itself."
 
@@ -230,7 +230,7 @@ To the remaining, I offer that you stay with me in the Golden Halls, and observe
 Each of us, Man, Medorian, and Raksha being among the first portion!
 
 ##### PRIEST
-And so, Michah and many of his closest allies descended into the world unseen, for they longed for adventure but knew well the mind of their Father. The host which descended to the world as flesh is unknown, but all of us here are a part of this host, and it is said we are among the most bold. Jabrah, and many of the most meek stayed in the golden halls, to stay close to their Father for all ages. 
+And so, Michah and many of his closest allies descended into the world unseen, for they longed for adventure but knew well the mind of their Parent. The host which descended to the world as flesh is unknown, but all of us here are a part of this host, and it is said we are among the most bold. Jabrah, and many of the most meek stayed in the golden halls, to stay close to their Father for all ages. 
 
 ##### DEACON
 What of the lost? What of Konstanyan and Lammashil?
