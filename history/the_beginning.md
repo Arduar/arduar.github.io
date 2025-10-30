@@ -1,4 +1,9 @@
 ---
+title: The Beginning
+parent: History
+---
+
+---
 ---
 <link rel="stylesheet" href="assets/css/style.css">
 
